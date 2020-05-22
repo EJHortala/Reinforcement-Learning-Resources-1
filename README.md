@@ -22,7 +22,19 @@ This repository has a list of curated packages, courses, books, and algorithms f
 
 ## [Courses](#Reinforcement-Learning-Resources)
 
+* [Coursera](https://www.coursera.org/courses?query=reinforcement%20learning)
+
+* [edX](https://www.edx.org/course/reinforcement-learning-explained-2)
+
+* [Udemy](https://www.udemy.com/topic/reinforcement-learning/)
+
+* [Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
+
 ## [Blogs](#Reinforcement-Learning-Resources)
+
+* [Blogs by Ziad Salloum](https://towardsdatascience.com/@zsalloum)
+
+* [Robert Moni](https://medium.com/@SmartLabAI/reinforcement-learning-algorithms-an-intuitive-overview-904e2dff5bbc)
 
 ## [Papers](#Reinforcement-Learning-Resources)
 
