@@ -20,6 +20,15 @@ This repository has a list of curated packages, courses, books, and algorithms f
 
 ## [Books](#Reinforcement-Learning-Resources)
 
+* Reinforcement Learning by Richard Sutton, 2nd Edition [Link](www.incompleteideas.net)
+
+* Deep Reinforcement Learning Hands-On: Apply Modern RL Methods, with Deep Q-networks, Value Iteration, Policy Gradients, TRPO, AlphaGo Zero and More [Link](https://www.packtpub.com/in/big-data-and-business-intelligence/deep-reinforcement-learning-hands)
+
+* Algorithms for Reinforcement Learning by Csaba Szepesvari [Link](https://sites.ualberta.ca/~szepesva/rlbook.html)
+
+* Deep Reinforcement Learning: Frontiers of Artificial Intelligence
+Book by Mohit Sewak [Link](https://books.google.co.in/books?id=B5WfDwAAQBAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false)
+
 ## [Courses](#Reinforcement-Learning-Resources)
 
 * [Coursera](https://www.coursera.org/courses?query=reinforcement%20learning)
