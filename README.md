@@ -40,6 +40,8 @@ This repository has a list of curated packages, courses, books, and algorithms f
 
 * [Blogs by Robert Moni](https://medium.com/@SmartLabAI/reinforcement-learning-algorithms-an-intuitive-overview-904e2dff5bbc)
 
+* [Blogs by Jesus Rodriguez](https://medium.com/@jrodthoughts)
+
 ## [Papers](#Reinforcement-Learning-Resources)
 
 ## [Some cool repositories](#Reinforcement-Learning-Resources)
