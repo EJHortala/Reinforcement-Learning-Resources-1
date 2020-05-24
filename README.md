@@ -57,6 +57,9 @@ Book by Mohit Sewak [Link](https://books.google.co.in/books?id=B5WfDwAAQBAJ&prin
 
 * <a href="https://www.arxiv-vanity.com/papers/1911.08265/">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a>
 
+* <a href="https://arxiv.org/abs/1903.00374">Model-Based Reinforcement Learning for Atari</a>
+
+
 ## [Some cool repositories](#Reinforcement-Learning-Resources)
 
 ## [Usage & Contributions](#Reinforcement-Learning-Resources)
