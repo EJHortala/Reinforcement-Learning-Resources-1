@@ -56,6 +56,8 @@ Book by Mohit Sewak [Link](https://books.google.co.in/books?id=B5WfDwAAQBAJ&prin
 
 * [Blogs by Jesus Rodriguez](https://medium.com/@jrodthoughts)
 
+* [Blogs by Nathan Lambert](https://towardsdatascience.com/@natolambert)
+
 ## [Papers](#Reinforcement-Learning-Resources)
 
 ## [Some cool repositories](#Reinforcement-Learning-Resources)
