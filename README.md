@@ -59,6 +59,7 @@ Book by Mohit Sewak [Link](https://books.google.co.in/books?id=B5WfDwAAQBAJ&prin
 
 * <a href="https://arxiv.org/abs/1903.00374">Model-Based Reinforcement Learning for Atari</a>
 
+* <a href="https://arxiv.org/abs/1312.5602">Playing Atari with Deep Reinforcement Learning</a>
 
 ## [Some cool repositories](#Reinforcement-Learning-Resources)
 
