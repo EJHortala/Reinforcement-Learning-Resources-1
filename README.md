@@ -20,7 +20,7 @@ This repository has a list of curated packages, courses, books, and algorithms f
 
 * PyMARL - python based framework for reinforcement learning for multi-agent system. [[github](https://github.com/oxwhirl/pymarl)![PyMARL]](https://img.shields.io/github/stars/oxwhirl/pymarl.svg?style=flat&label=Star&maxAge=86400)
 
-* TreeQN - a python based framework for training models. [[github](https://github.com/oxwhirl/treeqn)![TreeQN](https://img.shields.io/github/stars/oxwhirl/treeqn.svg?style=flat&label=Star&maxAge=86400)]
+* TreeQN - a python based framework for training models. [[github](https://github.com/oxwhirl/treeqn)![TreeQN]] (https://img.shields.io/github/stars/oxwhirl/treeqn.svg?style=flat&label=Star&maxAge=86400)
 
 
 ## [Books](#Reinforcement-Learning-Resources)
