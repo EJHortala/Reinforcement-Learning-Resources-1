@@ -61,6 +61,8 @@ Book by Mohit Sewak [Link](https://books.google.co.in/books?id=B5WfDwAAQBAJ&prin
 
 * <a href="https://arxiv.org/abs/1312.5602">Playing Atari with Deep Reinforcement Learning</a>
 
+* <a href="https://dl.acm.org/doi/10.5555/3091574.3091594">Markov games as a framework for multi-agent reinforcement learning</a>
+
 ## [Some cool repositories](#Reinforcement-Learning-Resources)
 
 ## [Usage & Contributions](#Reinforcement-Learning-Resources)
