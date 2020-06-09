@@ -18,6 +18,20 @@ This repository has a list of curated packages, courses, books, and algorithms f
 
 ## [Libraries](#Reinforcement-Learning-Resources)
 
+* pyqlearning- Pyqlearning is a Python library to implement RL, especially for Q-Learning and multi-agent Deep Q-Network. This library makes it possible to design the information search algorithm such as the Game AI, web crawlers, or robotics.[[github](https://github.com/chimera0/accel-brain-code/tree/master/Reinforcement-Learning/pyqlearning)]
+
+* KerasRL - Keras-RL seamlessly implements state-of-the-art deep reinforcement learning algorithms with the deep learning library Keras. Evaluating and playing around with different algorithms is easy, as Keras-RL works with OpenAI Gym out of the box.[[github](https://github.com/keras-rl/keras-rl)]
+
+* TensorForce - is an open-source deep reinforcement learning framework, which is relatively straightforward in its usage. Tensorforce is built on top of Google’s TensorFlow framework and is compatible with Python 3. [[github](https://github.com/tensorforce/tensorforce)]
+
+* RL_Coach - Reinforcement Learning Coach (RL_Coach) by Intel AI Lab enables easy experimentation with state-of-the-art reinforcement learning algorithms. The Coach can be used directly from python, where it uses the presets mechanism to define the experiments. A preset is mostly a python module which instantiates a graph manager object. [[github](https://github.com/NervanaSystems/coach)]
+
+* chainerRL - ChainerRL is a deep RL library that implements various state-of-the-art deep reinforcement algorithms in Python using Chainer, which is a flexible deep learning framework. [[github](https://github.com/chainer/chainerrl)]
+
+* MAME RL - thislibrary enables users to train your reinforcement learning algorithms on almost any arcade game. The toolkit allows the algorithm to step through gameplay while receiving the frame data, along with sending actions, making it more interactive with the game. [[github](https://github.com/M-J-Murray/MAMEToolkit)]
+
+* MushroomRL - is a Python reinforcement learning library whose modularity allows to use well-known Python libraries for tensor computation (e.g. PyTorch, Tensorflow) and RL benchmarks (e.g. OpenAI Gym, PyBullet, Deepmind Control Suite). [[github](https://github.com/MushroomRL/mushroom-rl)]
+
 ## [Books](#Reinforcement-Learning-Resources)
 
 * Reinforcement Learning by Richard Sutton, 2nd Edition [Link](www.incompleteideas.net)
