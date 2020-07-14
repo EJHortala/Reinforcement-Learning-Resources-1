@@ -32,6 +32,21 @@ This repository has a list of curated packages, courses, books, and algorithms f
 
 * MushroomRL - is a Python reinforcement learning library whose modularity allows to use well-known Python libraries for tensor computation (e.g. PyTorch, Tensorflow) and RL benchmarks (e.g. OpenAI Gym, PyBullet, Deepmind Control Suite). [[github](https://github.com/MushroomRL/mushroom-rl)]
 
+* pytorch_rl - is a library purely written in python to implement all the algorithms like SARSA, DQN, etc using pytorch module.[[github](https://github.com/jingweiz/pytorch-rl)]
+
+* rlput - Modular, optimized implementations of common deep RL algorithms in PyTorch, with unified infrastructure supporting all three major families of model-free algorithms: policy gradient, deep-q learning, and q-function policy gradient. [[github](https://github.com/astooke/rlpyt)]
+
+* cherry - Cherry is a reinforcement learning framework for researchers built on top of PyTorch. [[github](https://github.com/learnables/cherry)]
+
+* rllab - rllab is a framework for developing and evaluating reinforcement learning algorithms. It includes a wide range of continuous control tasks plus implementations of the following algorithms. [[github](https://github.com/rll/rllab)]
+
+* openAI baselines - OpenAI Baselines is a set of high-quality implementations of reinforcement learning algorithms. [[github](https://github.com/openai/baselines)]
+
+
+
+
+
+
 ## [Books](#Reinforcement-Learning-Resources)
 
 * Reinforcement Learning by Richard Sutton, 2nd Edition [Link](www.incompleteideas.net)
