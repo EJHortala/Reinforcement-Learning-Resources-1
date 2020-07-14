@@ -42,10 +42,7 @@ This repository has a list of curated packages, courses, books, and algorithms f
 
 * openAI baselines - OpenAI Baselines is a set of high-quality implementations of reinforcement learning algorithms. [[github](https://github.com/openai/baselines)]
 
-
-
-
-
+* CURL - is the official implementation of CURL for the DeepMind control experiments. [[github](https://github.com/MishaLaskin/curl)]
 
 ## [Books](#Reinforcement-Learning-Resources)
 
