@@ -3,7 +3,11 @@ This repository has a list of curated packages, courses, books, and algorithms f
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)  [![Build Status](https://ci.appveyor.com/api/projects/status/8e784doc5sye7c41?svg=true)](https://ci.appveyor.com/project/addy1997/Reinforcement-Learning-Resources) [![Stars](https://img.shields.io/github/stars/addy1997/Reinforcement-Learning-Resources.svg?style=flat&label=Star&maxAge=86400)](STARS)  [![Contributions](https://img.shields.io/github/commit-activity/m/addy1997/Reinforcement-Learning-Resources.svg?color=%09%2346c018)](https://github.com/addy1997/Reinforcement-Learning-Resources/graphs/commit-activity)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #### Note: The data in this repository is updated and accurate to the best of my knowledge. In case of any correction, deletion  or addition of information please raise an issue please write a mail to [Email](adwaitnaik2@gmail.com)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Table of Contents
 * [Libraries](#libraries)
@@ -15,6 +19,7 @@ This repository has a list of curated packages, courses, books, and algorithms f
 * [Usage & Contribution](#usage-and-contribution)
 * [Code Of Conduct](#code-of-conduct)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## [Libraries](#Reinforcement-Learning-Resources)
 
@@ -44,6 +49,8 @@ This repository has a list of curated packages, courses, books, and algorithms f
 
 * CURL - is the official implementation of CURL for the DeepMind control experiments. [[github](https://github.com/MishaLaskin/curl)]
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## [Books](#Reinforcement-Learning-Resources)
 
 * Reinforcement Learning by Richard Sutton, 2nd Edition [Link](www.incompleteideas.net)
@@ -54,6 +61,8 @@ This repository has a list of curated packages, courses, books, and algorithms f
 
 * Deep Reinforcement Learning: Frontiers of Artificial Intelligence
 Book by Mohit Sewak [Link](https://books.google.co.in/books?id=B5WfDwAAQBAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## [Courses](#Reinforcement-Learning-Resources)
 
@@ -69,6 +78,8 @@ Book by Mohit Sewak [Link](https://books.google.co.in/books?id=B5WfDwAAQBAJ&prin
 
 * [RL by David Silver](https://www.davidsilver.uk/teaching/)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## [Blogs](#Reinforcement-Learning-Resources)
 
 * [Blogs by Ziad Salloum](https://towardsdatascience.com/@zsalloum)
@@ -79,6 +90,8 @@ Book by Mohit Sewak [Link](https://books.google.co.in/books?id=B5WfDwAAQBAJ&prin
 
 * [Blogs by Nathan Lambert](https://towardsdatascience.com/@natolambert)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## [Papers](#Reinforcement-Learning-Resources)
 
 * <a href="https://www.arxiv-vanity.com/papers/1911.08265/">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a>
@@ -88,11 +101,5 @@ Book by Mohit Sewak [Link](https://books.google.co.in/books?id=B5WfDwAAQBAJ&prin
 * <a href="https://arxiv.org/abs/1312.5602">Playing Atari with Deep Reinforcement Learning</a>
 
 * <a href="https://dl.acm.org/doi/10.5555/3091574.3091594">Markov games as a framework for multi-agent reinforcement learning</a>
-
-## [Some cool repositories](#Reinforcement-Learning-Resources)
-
-## [Usage & Contributions](#Reinforcement-Learning-Resources)
-
-## [Code of Conduct](#Reinforcement-Learning-Resources)
 
 
